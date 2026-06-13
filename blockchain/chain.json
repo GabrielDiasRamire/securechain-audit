@@ -75,5 +75,19 @@
         "evento": "Arquivo alterado: contrato.txt",
         "hash_anterior": "3d49869ab69cd8de9aa8e9a7a56b10cb04b11f4c649a1ea7f63a1a1a652d8360",
         "hash_atual": "9fbf32f6dd4a543b844bbb9b58303de932fc2204d7ef11f5109f92d0a151a39a"
+    },
+    {
+        "id": 11,
+        "timestamp": "2026-06-13T13:45:18.346764",
+        "evento": "Arquivo inclu\u00eddo: novo.txt",
+        "hash_anterior": "9fbf32f6dd4a543b844bbb9b58303de932fc2204d7ef11f5109f92d0a151a39a",
+        "hash_atual": "77b2b80b702d2fa04260a2ce2854656c795910b2b69bac16dd3b18cc698d0944"
+    },
+    {
+        "id": 12,
+        "timestamp": "2026-06-13T13:45:58.299258",
+        "evento": "Arquivo exclu\u00eddo: novo.txt",
+        "hash_anterior": "77b2b80b702d2fa04260a2ce2854656c795910b2b69bac16dd3b18cc698d0944",
+        "hash_atual": "3c1051b6fc7000f754f62c6119b26c817dd329a6db09547dd9c73147b2ed0d8e"
     }
 ]
