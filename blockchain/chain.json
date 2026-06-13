@@ -12,5 +12,19 @@
         "evento": "Teste manual de cria\u00e7\u00e3o de bloco",
         "hash_anterior": "95415e1885006924b55c6507cee9eb00c4f575b57383c15f2845c937b25bb2d5",
         "hash_atual": "f89649533c764e08788ae999d4e71f187ba8f9249b340ecc90f2c0b669841651"
+    },
+    {
+        "id": 2,
+        "timestamp": "2026-06-13T13:22:01.341168",
+        "evento": "Usu\u00e1rio criado: GabrielRamire com perfil admin",
+        "hash_anterior": "f89649533c764e08788ae999d4e71f187ba8f9249b340ecc90f2c0b669841651",
+        "hash_atual": "7e155ee5b1126ec5c35ce06ebdc86aaa200fe22450248ddd122e42b264556e45"
+    },
+    {
+        "id": 3,
+        "timestamp": "2026-06-13T13:22:17.659475",
+        "evento": "Login realizado: GabrielRamire perfil admin",
+        "hash_anterior": "7e155ee5b1126ec5c35ce06ebdc86aaa200fe22450248ddd122e42b264556e45",
+        "hash_atual": "497b74cb55f68083d46f036505b4afcebd0cdb3a541a4f70b7905dc124085d5a"
     }
 ]
