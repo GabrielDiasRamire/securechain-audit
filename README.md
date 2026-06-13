@@ -1,8 +1,21 @@
 ## Ambiente utilizado
 
 Sistema Operacional: Debian GNU/Linux 13 (trixie)
+
 Python: 3.13.5
+
 Bash: version 5.2.37(1)-release (x86_64-pc-linux-gnu)
+
 Git: 2.47.3
+
 OpenSSL: 3.5.6 7 Apr 2026 (Library: OpenSSL 3.5.6 7 Apr 2026)
+
 Nmap: 7.95
+
+## Controle de usuários Linux
+
+Foram criados os usuários administrador, analista e visitante. Também foram criados grupos específicos: secure_admin, secure_analista e secure_visitante.
+
+O administrador representa o perfil de acesso total, o analista representa o perfil de execução e leitura dos módulos, e o visitante representa o acesso restrito aos relatórios.
+
+Esse controle demonstra o princípio do menor privilégio, separação de funções e controle de acesso com grupos do Linux.
