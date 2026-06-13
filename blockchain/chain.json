@@ -47,5 +47,19 @@
         "evento": "Login realizado: RenanBeinotte perfil analista",
         "hash_anterior": "2979eed15f98df93f172cb592f095da055a0b1246f85afb860bfffe58998a46d",
         "hash_atual": "cfe5a548c5e69fffef076c6a9dfadbb6dc09de606c4048b4176a672fc28a8557"
+    },
+    {
+        "id": 7,
+        "timestamp": "2026-06-13T13:34:11.109900",
+        "evento": "Tentativa de acesso negada para usu\u00e1rio: RenanBeinotte",
+        "hash_anterior": "cfe5a548c5e69fffef076c6a9dfadbb6dc09de606c4048b4176a672fc28a8557",
+        "hash_atual": "75985b45765008a27154a619a17230cda2cf89e637a618e48bdd70109f2e276d"
+    },
+    {
+        "id": 8,
+        "timestamp": "2026-06-13T13:34:25.634768",
+        "evento": "Tentativa de login negada para usu\u00e1rio inexistente: RenanBeinote",
+        "hash_anterior": "75985b45765008a27154a619a17230cda2cf89e637a618e48bdd70109f2e276d",
+        "hash_atual": "9a21a8ee91ff198429b790722866d2f0f383151ce3d16bb5a02266e51f2e7426"
     }
 ]
