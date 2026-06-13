@@ -61,5 +61,19 @@
         "evento": "Tentativa de login negada para usu\u00e1rio inexistente: RenanBeinote",
         "hash_anterior": "75985b45765008a27154a619a17230cda2cf89e637a618e48bdd70109f2e276d",
         "hash_atual": "9a21a8ee91ff198429b790722866d2f0f383151ce3d16bb5a02266e51f2e7426"
+    },
+    {
+        "id": 9,
+        "timestamp": "2026-06-13T13:38:15.888650",
+        "evento": "Hashes iniciais dos documentos cadastrados",
+        "hash_anterior": "9a21a8ee91ff198429b790722866d2f0f383151ce3d16bb5a02266e51f2e7426",
+        "hash_atual": "3d49869ab69cd8de9aa8e9a7a56b10cb04b11f4c649a1ea7f63a1a1a652d8360"
+    },
+    {
+        "id": 10,
+        "timestamp": "2026-06-13T13:38:43.674437",
+        "evento": "Arquivo alterado: contrato.txt",
+        "hash_anterior": "3d49869ab69cd8de9aa8e9a7a56b10cb04b11f4c649a1ea7f63a1a1a652d8360",
+        "hash_atual": "9fbf32f6dd4a543b844bbb9b58303de932fc2204d7ef11f5109f92d0a151a39a"
     }
 ]
