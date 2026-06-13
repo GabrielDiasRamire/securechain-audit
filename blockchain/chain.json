@@ -96,5 +96,19 @@
         "evento": "Backup seguro executado com AES-256",
         "hash_anterior": "3c1051b6fc7000f754f62c6119b26c817dd329a6db09547dd9c73147b2ed0d8e",
         "hash_atual": "3b37b14cfef854fcca17cfdfc5689bfb5ce130da12a106d374b10966124965f9"
+    },
+    {
+        "id": 14,
+        "timestamp": "2026-06-13T14:00:43.976833",
+        "evento": "Relat\u00f3rio de auditoria gerado: /home/gabriel/securechain/auditoria/relatorios/auditoria_2026-06-13_14-00-43.txt",
+        "hash_anterior": "3b37b14cfef854fcca17cfdfc5689bfb5ce130da12a106d374b10966124965f9",
+        "hash_atual": "3b481fcfec8379e71e68aacf174afda9c49cb35352e0212b2fe142420737ba9c"
+    },
+    {
+        "id": 15,
+        "timestamp": "2026-06-13T14:01:02.150016",
+        "evento": "Relat\u00f3rio de auditoria gerado: /home/gabriel/securechain/auditoria/relatorios/auditoria_2026-06-13_14-01-02.txt",
+        "hash_anterior": "3b481fcfec8379e71e68aacf174afda9c49cb35352e0212b2fe142420737ba9c",
+        "hash_atual": "662f5b78267543d163eac20b900118595d1645fa8349e5f7f89edcb030648362"
     }
 ]

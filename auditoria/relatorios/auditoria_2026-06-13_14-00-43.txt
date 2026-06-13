@@ -1,0 +1,62 @@
+RELATÓRIO DE AUDITORIA DO SISTEMA OPERACIONAL
+Data: 2026-06-13T14:00:43.867295
+
+======================================================================
+Usuários conectados - who
+======================================================================
+gabriel  seat0        2026-06-13 12:28
+gabriel  tty2         2026-06-13 12:28
+
+
+======================================================================
+Histórico de logins - last
+======================================================================
+gabriel  tty2                          Sat Jun 13 12:28 - still logged in
+Debian-g tty1                          Sat Jun 13 12:28 - 12:28  (00:00)
+reboot   system boot  6.12.90+deb13.1- Sat Jun 13 12:27 - still running
+root     pts/0                         Sat Jun 13 11:55 - 11:55  (00:00)
+gabriel  tty2                          Sat Jun 13 11:54 - 12:27  (00:33)
+Debian-g tty1                          Sat Jun 13 11:54 - 11:54  (00:00)
+administ tty2                          Sat Jun 13 11:50 - 11:54  (00:03)
+Debian-g tty1                          Sat Jun 13 11:50 - 11:50  (00:00)
+gabriel  tty2                          Sat Jun 13 11:43 - 11:50  (00:06)
+Debian-g tty1                          Sat Jun 13 11:43 - 11:43  (00:00)
+
+wtmpdb begins Sat Jun 13 11:43:17 2026
+
+
+======================================================================
+Portas e serviços em escuta - ss
+======================================================================
+Netid State  Recv-Q Send-Q Local Address:Port  Peer Address:PortProcess                                
+udp   UNCONN 0      0            0.0.0.0:5353       0.0.0.0:*                                          
+udp   UNCONN 0      0            0.0.0.0:50854      0.0.0.0:*                                          
+udp   UNCONN 0      0            0.0.0.0:35398      0.0.0.0:*    users:(("firefox-esr",pid=2047,fd=56))
+udp   UNCONN 0      0               [::]:5353          [::]:*                                          
+udp   UNCONN 0      0               [::]:39946         [::]:*                                          
+tcp   LISTEN 0      4096       127.0.0.1:631        0.0.0.0:*                                          
+tcp   LISTEN 0      4096           [::1]:631           [::]:*                                          
+
+
+======================================================================
+Interfaces de rede - ip a
+======================================================================
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+    inet6 ::1/128 scope host noprefixroute 
+       valid_lft forever preferred_lft forever
+2: enp0s3: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc fq_codel state UP group default qlen 1000
+    link/ether 08:00:27:92:3c:15 brd ff:ff:ff:ff:ff:ff
+    altname enx080027923c15
+    inet 10.0.2.15/24 brd 10.0.2.255 scope global dynamic noprefixroute enp0s3
+       valid_lft 80842sec preferred_lft 80842sec
+    inet6 fd17:625c:f037:2:3ad1:cf8c:4091:ef1/64 scope global temporary dynamic 
+       valid_lft 86172sec preferred_lft 14172sec
+    inet6 fd17:625c:f037:2:a00:27ff:fe92:3c15/64 scope global dynamic mngtmpaddr noprefixroute 
+       valid_lft 86172sec preferred_lft 14172sec
+    inet6 fe80::a00:27ff:fe92:3c15/64 scope link noprefixroute 
+       valid_lft forever preferred_lft forever
+
+
