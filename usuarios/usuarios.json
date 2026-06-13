@@ -2,5 +2,13 @@
     "GabrielRamire": {
         "senha": "$2b$12$xX7FiIXBl5JKErYRhcDhH.yD3GQHnehPoX2WNAZqA9pQhXIHkGvwy",
         "perfil": "admin"
+    },
+    "RenanBeinotte": {
+        "senha": "$2b$12$DcSTZUAI/2khQAfDHkzvhumhD.Wi3XkNVao9jisQJa/iXR8VecQqe",
+        "perfil": "analista"
+    },
+    "GuilhermeLeme": {
+        "senha": "$2b$12$yys0CFVva4tnNOaVx3OrPO4xEu6laD2dbJ8a0OQ0iBE0czO/pZCqa",
+        "perfil": "visitante"
     }
 }

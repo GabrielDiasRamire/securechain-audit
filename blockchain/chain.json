@@ -26,5 +26,26 @@
         "evento": "Login realizado: GabrielRamire perfil admin",
         "hash_anterior": "7e155ee5b1126ec5c35ce06ebdc86aaa200fe22450248ddd122e42b264556e45",
         "hash_atual": "497b74cb55f68083d46f036505b4afcebd0cdb3a541a4f70b7905dc124085d5a"
+    },
+    {
+        "id": 4,
+        "timestamp": "2026-06-13T13:29:55.168458",
+        "evento": "Usu\u00e1rio criado: RenanBeinotte com perfil analista",
+        "hash_anterior": "497b74cb55f68083d46f036505b4afcebd0cdb3a541a4f70b7905dc124085d5a",
+        "hash_atual": "9d2b5b4dc408a57d63b65b6110a1b88f02857b28df8df503a5d1c496004bd126"
+    },
+    {
+        "id": 5,
+        "timestamp": "2026-06-13T13:30:13.469475",
+        "evento": "Usu\u00e1rio criado: GuilhermeLeme com perfil visitante",
+        "hash_anterior": "9d2b5b4dc408a57d63b65b6110a1b88f02857b28df8df503a5d1c496004bd126",
+        "hash_atual": "2979eed15f98df93f172cb592f095da055a0b1246f85afb860bfffe58998a46d"
+    },
+    {
+        "id": 6,
+        "timestamp": "2026-06-13T13:30:27.718110",
+        "evento": "Login realizado: RenanBeinotte perfil analista",
+        "hash_anterior": "2979eed15f98df93f172cb592f095da055a0b1246f85afb860bfffe58998a46d",
+        "hash_atual": "cfe5a548c5e69fffef076c6a9dfadbb6dc09de606c4048b4176a672fc28a8557"
     }
 ]
