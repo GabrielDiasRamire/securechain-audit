@@ -89,5 +89,12 @@
         "evento": "Arquivo exclu\u00eddo: novo.txt",
         "hash_anterior": "77b2b80b702d2fa04260a2ce2854656c795910b2b69bac16dd3b18cc698d0944",
         "hash_atual": "3c1051b6fc7000f754f62c6119b26c817dd329a6db09547dd9c73147b2ed0d8e"
+    },
+    {
+        "id": 13,
+        "timestamp": "2026-06-13T13:49:50.911129",
+        "evento": "Backup seguro executado com AES-256",
+        "hash_anterior": "3c1051b6fc7000f754f62c6119b26c817dd329a6db09547dd9c73147b2ed0d8e",
+        "hash_atual": "3b37b14cfef854fcca17cfdfc5689bfb5ce130da12a106d374b10966124965f9"
     }
 ]
