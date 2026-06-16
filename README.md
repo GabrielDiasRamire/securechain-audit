@@ -33,6 +33,8 @@ Código: Auditoria do sistema operacional, Autenticação com bcrypt. Autores: R
 
 Código: Auditoria do sistema operacional, Monitoramento de integridade. Autores: Guilherme Leme
 
+Restante do projeto feito em conjunto em uma call com todos os integrantes
+
 ## Ambiente utilizado
 
 Sistema Operacional: Debian GNU/Linux 13 (trixie)
