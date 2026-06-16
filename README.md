@@ -1,7 +1,9 @@
 ##Nome Dos Integrantes
 
 Gabriel Dias Ramire - 202210108
+
 Guilherme Leme - 202010173
+
 Renan Beinotte - 202210297
 
 
