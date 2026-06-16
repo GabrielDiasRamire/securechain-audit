@@ -26,3 +26,9 @@ Foram criados os usuários administrador, analista e visitante. Também foram cr
 O administrador representa o perfil de acesso total, o analista representa o perfil de execução e leitura dos módulos, e o visitante representa o acesso restrito aos relatórios.
 
 Esse controle demonstra o princípio do menor privilégio, separação de funções e controle de acesso com grupos do Linux.
+
+## Zero Trust Security
+
+O sistema aplica o conceito de Zero Trust porque nenhum usuário é considerado confiável por padrão. Cada acesso exige autenticação, cada perfil possui permissões específicas e todas as ações relevantes são registradas na blockchain.
+
+A identidade dos usuários é verificada no login. As permissões são controladas pelos perfis admin, analista e visitante e também pelos grupos do Linux. O princípio do menor privilégio foi aplicado limitando o acesso conforme a função de cada usuário. As ações importantes, como login, alteração de arquivo e backup, são registradas de forma imutável na blockchain.
