@@ -6,6 +6,23 @@ Guilherme Leme - 202010173
 
 Renan Beinotte - 202210297
 
+## Estrutura do Projeto
+
+```text
+securechain/
+├── blockchain/
+│   ├── blockchain.py
+│   └── chain.json
+├── auditoria/
+│   ├── auditor.py
+│   └── relatorios/
+├── backup/
+│   └── backup.sh
+├── logs/
+├── documentos/
+├── usuarios/
+└── README.md
+```
 
 ## Ambiente utilizado
 
