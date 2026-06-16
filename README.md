@@ -23,6 +23,15 @@ securechain/
 ├── usuarios/
 └── README.md
 ```
+## Divisão das atividades
+
+Trabalho feito em uma única maquina, commit colocado a partir dela para não ter problema com carregamentos desnecessário no site. Foi feito uma divisão para os seguintes tópicos
+
+Código Backup seguro com AES-256, Blockchain. Autores: Gabriel Dias Ramire
+
+Código: Auditoria do sistema operacional, Autenticação com bcrypt. Autores: Renan Beinotte
+
+Código: Auditoria do sistema operacional, Monitoramento de integridade. Autores: Guilherme Leme
 
 ## Ambiente utilizado
 
