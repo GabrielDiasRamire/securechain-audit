@@ -1,0 +1,31 @@
+/home/gabriel/securechain
+├── auditoria
+│   ├── auditor.py
+│   └── relatorios
+│       ├── auditoria_2026-06-13_14-00-43.txt
+│       ├── auditoria_2026-06-13_14-01-02.txt
+│       ├── estrutura_final.txt
+│       ├── nmap_local.txt
+│       ├── permissoes.txt
+│       └── servicos_escuta.txt
+├── backup
+│   ├── backup.sh
+│   └── documentos_2026-06-13_13-49-44.tar.gz.enc
+├── blockchain
+│   ├── blockchain.py
+│   ├── chain.json
+│   └── __pycache__
+│       └── blockchain.cpython-313.pyc
+├── documentos
+│   ├── contrato.txt
+│   └── exemplo.txt
+├── logs
+│   ├── backup.log
+│   └── hashes_documentos.json
+├── monitor.py
+├── README.md
+└── usuarios
+    ├── auth.py
+    └── usuarios.json
+
+9 directories, 20 files
