@@ -1,0 +1,4 @@
+drwxr-xr-x 9 gabriel gabriel 4096 Jun 16 09:02 /home/gabriel/securechain
+drwxr-xr-x 3 gabriel gabriel 4096 Jun 13 13:21 /home/gabriel/securechain/blockchain
+drwxr-xr-x 2 gabriel gabriel 4096 Jun 13 13:45 /home/gabriel/securechain/documentos
+drwxr-xr-x 2 gabriel gabriel 4096 Jun 13 13:22 /home/gabriel/securechain/usuarios
